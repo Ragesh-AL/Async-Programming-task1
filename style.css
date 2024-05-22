@@ -1,0 +1,22 @@
+#card{
+    display: flex;
+
+}
+.bar{
+    margin-top: 15rem;
+    width: 200px;
+}
+.head{
+    color: beige;
+    text-align: center;
+    height: 30rem;
+    background-color: black;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.wapper{
+    display: flex;
+    flex-wrap: wrap;
+}
